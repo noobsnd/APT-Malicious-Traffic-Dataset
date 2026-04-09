@@ -64,7 +64,7 @@
 
 #### 代码片段示例（模拟混淆结构）
 
-```python
+
 # 看似正常的POC代码
 def exploit(target):
     print(f"Exploiting {target}...")
@@ -73,9 +73,8 @@ def exploit(target):
     payload = "ZWNobyAiSGFja2VkISI7ICMgQmFzZTY0IGVuY29kZWQgcGF5bG9hZA=="
     import base64; exec(base64.b64decode(payload).decode())
     # [恶意载荷结束]
-    
     print("Done.")
-数据结构说明
+##  数据结构说明
 为了便于自动化处理，本仓库中的每个样本目录都包含一个文件，格式如下：
 ️ 使用指南
 1. 环境准备
