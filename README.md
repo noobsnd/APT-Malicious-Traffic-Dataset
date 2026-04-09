@@ -75,28 +75,41 @@ def exploit(target):
     # [恶意载荷结束]
     print("Done.")
 ##  数据结构说明
-为了便于自动化处理，本仓库中的每个样本目录都包含一个文件，格式如下：
-️ 使用指南
-1. 环境准备
-强烈建议在隔离的虚拟机或沙箱环境中处理这些样本。
-•操作系统：推荐Windows 10/11 (用于分析Windows恶意软件) 或Ubuntu (用于分析Linux/云恶意软件)。
-•工具链：
-◦静态分析：Ghidra， dnSpy，Cobalt Strike，Metasploit
-◦动态分析：Wireshark, ProcMon,Fiddler
-◦沙箱：Cuckoo Sandbox,Any.Run
-2. 下载与解压
-由于包含恶意代码，样本文件通常经过加密压缩。默认解压密码为 。
-3. 提取特征
-你可以使用  命令行工具对样本进行扫描：
-贡献指南
-我们欢迎社区贡献新的样本分析、检测规则或相关情报。
-1.提交样本：请确保样本经过哈希校验，并附带详细的元数据。
-2.编写规则：提交的YARA或Sigma规则需经过测试，确保误报率在可控范围内。
-3.分析报告：欢迎提交针对特定样本的详细逆向分析报告（Markdown 格式）。
-参考资料
+为了便于自动化处理，本仓库中的每个样本目录都包含一个文件。
+️## 📖 使用指南
+
+### 1. 环境准备
+
+> **⚠️ 强烈建议**：在隔离的虚拟机或沙箱环境中处理这些样本。
+
+- **操作系统**：
+  - Windows 10/11（用于分析 Windows 恶意软件）
+  - Ubuntu（用于分析 Linux/云恶意软件）
+- **工具链**：
+  - 静态分析：Ghidra，dnSpy，Cobalt Strike，Metasploit
+  - 动态分析：Wireshark，ProcMon，Fiddler
+  - 沙箱：Cuckoo Sandbox，Any.Run
+
+### 2. 下载与解压
+
+由于包含恶意代码，样本文件通常经过加密压缩。  
+**默认解压密码**：`apt123`
+
+### 3. 提取特征
+
+你可以使用以下命令行工具对样本进行扫描：
+
+###  示例（请根据实际工具填写）
+<工具名称> --scan <样本路径>
+
+## 参考资料
 •MITRE ATT&CK Framework
-•MalwareBazaar
-•APTnotes Data Repository
-•VirusTotal Intelligence
-许可证
+
+•MalwareBazaar 
+
+•APTnotes Data Repository 
+
+•VirusTotal Intelligence 
+
+## 许可证
 本项目采用 CC BY-NC-SA 4.0 (知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议) 进行许可。
