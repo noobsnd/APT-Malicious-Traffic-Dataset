@@ -1,220 +1,62 @@
-# APT_REPORT collected by @blackorbird  https://x.com/blackorbird
-Interesting apt report & sample & malware & technology & intellegence collection
-
-# APT Group for country
-
-Threat Actor Groups Tracked by Palo Alto Networks Unit 42
-
-https://unit42.paloaltonetworks.com/threat-actor-groups-tracked-by-palo-alto-networks-unit-42/
-
-## Sample
-
-### Group123
-
-▶ScarCruft continues to evolve, introduces Bluetooth harvester
-https://securelist.com/scarcruft-continues-to-evolve-introduces-bluetooth-harvester/90729/
-(May 13, 2019)
-
-▶Group123 Attempts to attack 'printing paper' APT disguised as a guide to organization and conferences
-https://blog.alyac.co.kr/2287
-(May 2 , 2019)
-
-▶Group123, APT attack impersonating Unification Ministry, spread malicious code to Google Drive
-https://blog.alyac.co.kr/2268
-(April 22 , 2019)
-
-▶ group123 APT organization, 'Operation High Expert'
-https://blog.alyac.co.kr/2226
-(April 2 , 2019)
-
-▶ Rocketman APT Campaign Returned to Operation Holiday Wiper
-https://blog.alyac.co.kr/2089
-(Jan 23, 2019)
-
-▶ 'Operation Blackbird', the mobile invasion of the '
-https://blog.alyac.co.kr/2035
-(Dec 13, 2018)
-
-▶ group123 'Operation Korean Sword' is underway
-https://blog.alyac.co.kr/1985
-(Nov. 16, 2018)
-
-▶ group123 Group's latest APT campaign - 'Operation Rocket Man'
-https://blog.alyac.co.kr/1853
-(Aug. 22, 2018)
-
-▶ group123, Flash Player Zero-Day (CVE-2018-4878) Attack Attention
-https://blog.alyac.co.kr/1521
-(Feb 02, 2018)
-
-▶ 'group123' group 'survey on the total number of discovery of separated families in North and South'
-https://blog.alyac.co.kr/1767
-(July 28, 2014)
-
-▶ Rocketman APT campaign, 'Operation Golden Bird'
-https://blog.alyac.co.kr/2205
-(March 20, 2013)
-
-▶ Korea In The Crosshairs
-https://blog.talosintelligence.com/2018/01/korea-in-crosshairs.html
-(Jan 16, 2018)
-
-▶FreeMilk: A Highly Targeted Spear Phishing Campaign
-https://unit42.paloaltonetworks.com/unit42-freemilk-highly-targeted-spear-phishing-campaign/
-(Oct 5, 2017)
-
-
-### baby related kimsuky
-
-▶BabyShark Malware Part Two – Attacks Continue Using KimJongRAT and PCRat (April 26, 2019)
-https://unit42.paloaltonetworks.com/babyshark-malware-part-two-attacks-continue-using-kimjongrat-and-pcrat/
-
-▶Operation Giant Baby, a giant threat (March 28, 2019)
-https://blog.alyac.co.kr/2223
-
-▶ Malicious code installed with coin purse program(Alibaba) (March 15, 2019)
-https://asec.ahnlab.com/1209
-
-▶ New BabyShark Malware Targets U.S. National Security Think Tanks (Feb. 22, 2019)
-https://unit42.paloaltonetworks.com/new-babyshark-malware-targets-u-s-national-security-think-tanks/
-
-▶ Korea's latest APT attack, Operation Mystery Baby Attention! (Feb 11, 2018)
-https://blog.alyac.co.kr/1963
-
-▶ Returned to Korea as Operation Baby Coin, APT attacker, overseas target in 2010 (Apr. 19, 2014)
-https://blog.alyac.co.kr/1640
-
-
-### kimsuky
-
-▶Kimsuky, Blue House Green Support / Sangchunjae Estimate
-https://blog.alyac.co.kr/2645
-
-▶Kimsuky, cyber security bureau Cryptographic Cases (May 28 , 2019)
-https://blog.alyac.co.kr/2338
-
-▶Kimsuky, Korea Cryptographic Exchange Event Impersonation APT Attack (May 28 , 2019)
-https://blog.alyac.co.kr/2336
-
-▶Kimsuky  'Fake striker' APT campaign aimed at Korea (May 20 , 2019)
-https://blog.alyac.co.kr/2315
-
-▶ Analysis of "Smoke Screen" in APT campaign aimed at Korea and America (April 17 , 2019)
-https://blog.alyac.co.kr/2243
-
-▶ Encrypted APT attack, Kimsuky organization's 'smoke screen' PART 2 (May 13 , 2019)
-https://blog.alyac.co.kr/2299
-
-▶ Kimsuky Organization, Operation Stealth Power Silence Operation (April 3 , 2019)
-https://blog.alyac.co.kr/2234
-
-▶ Kimsuky Organization, Watering Hole Started "Operation Low Kick"(March 21, 2019)
-https://blog.alyac.co.kr/2209
-
-### Jaku
-
-▶ SiliVaccine: Inside North Korea’s Anti-Virus (May 1, 2018)
-https://research.checkpoint.com/silivaccine-a-look-inside-north-koreas-anti-virus/
-
-### Lazarus
-
-▶Lazarus Group Goes 'Fileless'，an implant w/ remote download & in-memory execution
-https://objective-see.com/blog/blog_0x51.html
-
-▶LAZARUS APT TARGETS MAC USERS WITH POISONED WORD DOCUMENT
-https://www.sentinelone.com/blog/lazarus-apt-targets-mac-users-poisoned-word-document/
-
-
-### Konni
-
-▶Konni's APT Group conducts attacks with Russian-North Korean trade and economic investment documents
-https://blog.alyac.co.kr/2535
-
-▶APT Campaign 'Konni' & 'Kimsuky' find commonality in organizations (June 10, 2019)
-https://blog.alyac.co.kr/2347
-
-▶Korean Kusa Konni Organization, Blue Sky Utilizing 'Amadey' Russia Botnet  (May 16, 2019)
-https://blog.alyac.co.kr/2308
-
-▶The Konni APT Campaign and 'Operation Hunter Adonis' (Jan 1 ,2019)
-https://blog.alyac.co.kr/2061
-
-### Oceanlotus
-
-▶Threat Spotlight: Ratsnif - New Network Vermin from OceanLotus (July 1, 2019)
-https://threatvector.cylance.com/en_us/home/threat-spotlight-ratsnif-new-network-vermin-from-oceanlotus.html
-
-▶Analysis report on the attack on mobile devices by Oceanlotus (May 24, 2019)
-
-https://mp.weixin.qq.com/s/L-tCvLPOOMhP0ndgdqhkNQ
-
-▶ Oceanlotus in the first quarter of 2019 for the attack technology of China.(April 24, 2019)
-https://mp.weixin.qq.com/s/xPsEXp2J5IE7wNSMEVC24A
-
-▶ Deobfuscating APT32 Flow Graphs with Cutter and Radare2 (April 24, 2019)
-https://research.checkpoint.com/deobfuscating-apt32-flow-graphs-with-cutter-and-radare2/
-
-▶ OceanLotus Steganography Malware Analysis White Paper (April 2 , 2019)
-https://threatvector.cylance.com/en_us/home/report-oceanlotus-apt-group-leveraging-steganography.html
-
-▶OceanLotus: macOS malware update(April 9 , 2019)
-
-https://www.welivesecurity.com/2019/04/09/oceanlotus-macos-malware-update/
-
-### APT28
-▶ CB TAU Threat Intelligence Notification: Hunting APT28 Downloaders  (April 5 , 2019)
-https://www.carbonblack.com/2019/04/05/cb-threat-intelligence-notification-hunting-apt28-downloaders/
-
-### Turla
-▶ A dive into Turla PowerShell usage (May 29 , 2019)
-https://www.welivesecurity.com/2019/05/29/turla-powershell-usage/
-
-### tick
-
-▶ tick group new campaign, attack north korean and japan
-https://www.ahnlab.com/kr/site/securityinfo/secunews/secuNewsView.do?curPage=1&menu_dist=2&seq=28186
-(April 1 , 2019)
-
-### Winnti
-
-▶ bayer-says-has-detected-contained-cyber-attack (April 5 , 2019)
-
-https://www.reuters.com/article/us-bayer-cyber/bayer-says-has-detected-contained-cyber-attack-idUSKCN1RG0NN
-
-https://www.tagesschau.de/inland/hackerangriff-bayer-101.html
-
-## Middle East Asia
-
-### Muddywater
-
-▶ Recent MuddyWater-associated BlackWater campaign shows signs of new anti-detection techniques(May 20,2019)
-
-https://blog.talosintelligence.com/2019/05/recent-muddywater-associated-blackwater.html
-
-### ZooPark
-
-▶ APT-C-38 attack activity revealed (May 27,2019)
-http://blogs.360.cn/post/analysis-of-APT-C-38.html
-
-# APT Group for finance
-
-### CARBANAK
-
-▶ CARBANAK Week Part One: A Rare Occurrence (April 22, 2019)
-https://www.fireeye.com/blog/threat-research/2019/04/carbanak-week-part-one-a-rare-occurrence.html
-
-### londonblue (Nigeria)
-
-▶ Evolving Tactics: London Blue Starts Spoofing Target Domains (April 4 , 2019)
-PDF is in the folder
-https://www.agari.com/email-security-blog/london-blue-evolving-tactics/
-
-### Fin6
-▶ Pick-Six: Intercepting a FIN6 Intrusion, an Actor Recently Tied to Ryuk and LockerGoga Ransomware(April 5 , 2019)
-https://www.fireeye.com/blog/threat-research/2019/04/pick-six-intercepting-a-fin6-intrusion.html
-
-### Fin7
-▶ On the Hunt for FIN7: Pursuing an Enigmatic and Evasive Global Criminal Operation (August 01, 2018)
-https://www.fireeye.com/blog/threat-research/2018/08/fin7-pursuing-an-enigmatic-and-evasive-global-criminal-operation.html
-
-
+️ APT-Malware-Samples: 高级持续性威胁攻击样本数据集
+️ 重要免责声明
+本仓库包含的所有文件、代码片段及分析数据仅供学术研究、安全防御及教育用途。
+•本仓库旨在帮助安全研究人员、数据科学家和系统管理员了解高级持续性威胁的攻击手法，以开发更好的检测规则（如YARA规则、Sigma规则）和防御策略。
+•严禁将本仓库中的任何内容用于非法活动、恶意攻击或未经授权的系统访问。
+•用户需自行承担使用本数据集的法律责任。本仓库维护者不对因使用或滥用本数据而造成的任何后果负责。
+项目背景
+高级持续性威胁（APT）代表了网络攻击的最高水平，这些攻击通常由国家级或具有深厚背景的黑客组织发起，具有极强的隐蔽性、持久性和针对性。
+随着网络战场的演变，APT组织的攻击手段已从传统的鱼叉式钓鱼演变为更加复杂的软件供应链攻击和云环境渗透。例如，威胁组织如APT29和Lazarus开始利用开源代码托管平台（如GitHub）作为分发恶意软件的渠道，通过伪造漏洞利用代码（CVE POC）或发布包含恶意Payload的Python包来感染高价值目标（如安全研究员和渗透测试人员）。
+APT-Malware-Samples 项目致力于收集和整理这些与APT活动相关的恶意软件样本及关联情报，为网络安全社区提供一个标准化的基准测试数据集。该数据集包含超过3500个恶意软件样本，这些样本涉及12个高级持续性威胁（APT）组织，据称这些组织由5个不同的国家支持。此数据集此前已被用于对不同机器学习方法的“作者归因”（即溯源分析）能力进行基准测试。它同样适用于未来的基准评估或恶意软件研究工作。
+项目目标
+1.辅助威胁狩猎：为蓝队和安全分析师提供真实的恶意代码样本，用于提取特征、开发检测规则（如 YARA、Snort、Suricata）。
+2.机器学习基准测试：为数据科学家提供标注数据，用于训练恶意软件分类模型、代码作者归属分析（Authorship Attribution）及攻击溯源。
+3.攻击链复现：帮助红队和安全研究人员在隔离环境中复现 APT 攻击路径，理解其战术、技术和过程。
+数据集内容
+本仓库的数据主要来源于开源威胁情报报告、公开披露的IOC以及VirusTotal等平台的收集。数据集涵盖了多个知名 APT 组织的攻击样本。
+涵盖的 APT 组织（示例）
+APT 组织	疑似背景	典型攻击手法	涉及样本类型
+APT29 (Cozy Bear)	东欧	鱼叉式钓鱼、供应链攻击	Cobalt Strike Beacon,WellMess
+Lazarus Group	东亚	加密货币窃取、金融攻击	AppleJeus,VHD镜像后门
+APT27 (Iron Tiger)	东亚	针对能源、政府机构的攻击	多种WebShell,远程访问木马
+Banana Squad	未知	GitHub 软件供应链攻击	恶意Python脚本, 混淆Payload
+样本分类
+•初始访问载荷：包含恶意宏的Office文档、伪造的漏洞利用工具（POC）、恶意安装包。
+•持久化组件：注册表启动项修改脚本、计划任务配置、Rootkit驱动。
+•命令与控制通信：包含C2服务器地址的配置文件、用于DNS隧道通信的脚本。
+•混淆代码库：经过Base64、十六进制或Fernet加密处理的Python、PowerShell及VBScript 脚本。
+典型攻击案例分析
+本数据集特别收录了针对开发者和安全研究人员的GitHub 伪造漏洞利用陷阱样本。
+攻击手法解析
+攻击者利用GitHub的UI特性（如长代码行不换行）将恶意 Payload 隐藏在屏幕可视区域之外。这些仓库通常伪装成热门 CVE 漏洞（如 CVE-2025-59295）的验证代码。
+攻击流程如下：
+1.诱饵投放：攻击者创建包含专业 README 文档的仓库，声称包含高危漏洞的 POC。
+2.混淆隐藏：在 Python 脚本中嵌入经过多层编码（Base64/Hex）的恶意代码，利用 UI 特性使其在浏览器中不可见。
+3.载荷执行：一旦受害者运行脚本，恶意代码会连接外部 C2 服务器（如 ），下载并执行最终的后门程序（如 WebRAT）。
+代码片段示例（模拟混淆结构）：
+数据结构说明
+为了便于自动化处理，本仓库中的每个样本目录都包含一个文件，格式如下：
+️ 使用指南
+1. 环境准备
+强烈建议在隔离的虚拟机或沙箱环境中处理这些样本。
+•操作系统：推荐Windows 10/11 (用于分析Windows恶意软件) 或Ubuntu (用于分析Linux/云恶意软件)。
+•工具链：
+◦静态分析：Ghidra， dnSpy，Cobalt Strike，Metasploit
+◦动态分析：Wireshark, ProcMon,Fiddler
+◦沙箱：Cuckoo Sandbox,Any.Run
+2. 下载与解压
+由于包含恶意代码，样本文件通常经过加密压缩。默认解压密码为 。
+3. 提取特征
+你可以使用  命令行工具对样本进行扫描：
+贡献指南
+我们欢迎社区贡献新的样本分析、检测规则或相关情报。
+1.提交样本：请确保样本经过哈希校验，并附带详细的元数据。
+2.编写规则：提交的YARA或Sigma规则需经过测试，确保误报率在可控范围内。
+3.分析报告：欢迎提交针对特定样本的详细逆向分析报告（Markdown 格式）。
+参考资料
+•MITRE ATT&CK Framework
+•MalwareBazaar
+•APTnotes Data Repository
+•VirusTotal Intelligence
+许可证
+本项目采用 CC BY-NC-SA 4.0 (知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议) 进行许可。
